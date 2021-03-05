@@ -1,4 +1,5 @@
 # Unoffical Brainly-wrapper  
+[NPM](https://www.npmjs.com/package/brainly-wrapper)
 
 ```js
 const brainly = require("brainly-wrapper")
@@ -48,4 +49,5 @@ Structure:
 }
 ```  
 
-Test the package with `npm test`  
+Test the package with `npm test`   
+Contributions, Issues, visit [Github](https://github.com/Fastering18/brainly-wrapper)

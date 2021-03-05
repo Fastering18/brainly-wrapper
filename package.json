@@ -1,0 +1,18 @@
+{
+  "name": "brainly-wrapper",
+  "version": "1.0.0",
+  "description": "Get information from brainly website",
+  "main": "module.js",
+  "scripts": {
+    "start": "node ./module.js",
+    "test": "node ./module.test.js"
+  },
+  "keywords": [
+    "brainly"
+  ],
+  "author": "Fastering18",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}

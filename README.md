@@ -1,5 +1,6 @@
 # Unoffical Brainly-wrapper  
-[NPM](https://www.npmjs.com/package/brainly-wrapper)
+Written in NodeJS, do your homework now!
+[NPM Package](https://www.npmjs.com/package/brainly-wrapper)
 
 ```js
 const brainly = require("brainly-wrapper")
